@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "689800474001",
+    "project_id": "lfj-app",
+    "storage_bucket": "lfj-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689800474001:android:deb02cc890ae83a926fe30",
+        "android_client_info": {
+          "package_name": "com.example.lfj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689800474001-iljmb3msrjvs4j01brjtqn950hu7cnj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf_36_C7RPL-sOof8ZzC1BiQQ037Ps0Y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689800474001-iljmb3msrjvs4j01brjtqn950hu7cnj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
